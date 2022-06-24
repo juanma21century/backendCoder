@@ -1,0 +1,17 @@
+[
+  {
+    "producto": "Monitor",
+    "precio": 10000,
+    "id": 1
+  },
+  {
+    "producto": "Teclado",
+    "precio": 5800,
+    "id": 2
+  },
+  {
+    "producto": "CPU",
+    "precio": 30000,
+    "id": 3
+  }
+]
